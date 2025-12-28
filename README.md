@@ -6,11 +6,17 @@ A fun and interactive **Simon Says memory game** built using **HTML, CSS, and Ja
 📌 Features :-
 
  🎯 Interactive Simon Says gameplay
+ 
  ⌨️ Game starts on key press
+ 
  🧠 Tests memory and concentration
+ 
  ⚡ Flash speed increases as levels increase
+ 
  ❌ Game-over detection with score display
+ 
  🔁 Restart game without page refresh
+ 
  🎨 Clean and colorful UI
 
 🛠️ Technologies Used:-
