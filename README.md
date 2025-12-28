@@ -24,7 +24,9 @@ A fun and interactive **Simon Says memory game** built using **HTML, CSS, and Ja
 🛠️ Technologies Used:-
 
 **HTML5** – Structure of the game
+
 **CSS3** – Styling and animations
+
 **JavaScript (ES6)** – Game logic and interactivity
 
 
